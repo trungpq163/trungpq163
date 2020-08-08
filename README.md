@@ -4,4 +4,5 @@
     <br> I'm MMDer, student at Dalat University.
     <br>I love to learn web development & design mmd video. :sparkles:<br>
   </samp>
+  <img src="https://github-readme-stats.vercel.app/api?username=quoctrung163&show_icons=true">
 </p>

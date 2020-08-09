@@ -21,12 +21,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/>
 
 <br/>
+
 <img src="https://pa1.narvii.com/6119/21a2e007a201bb83f4dfa258ea5f4a7560376f90_hq.gif"/>
-[twitter]: https://twitter.com/quoctrung163
-[youtube]: https://www.youtube.com/Felicity%E7%A5%BA
-[facebook]: https://facebook.com/quoctrung163
-[linkedin]: https://vn.linkedin.com/in/quoctrung163

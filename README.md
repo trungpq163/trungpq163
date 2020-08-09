@@ -5,4 +5,6 @@
     <br>I love to learn web development & design mmd video. :sparkles:<br>
   </samp><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=quoctrung163&show_icons=true">
+    <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctrung163&layout=compact&theme=vue">
+
 </p>

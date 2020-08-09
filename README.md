@@ -30,5 +30,4 @@
     <br/>:coffee: Connect with me :love_letter:  <a href="https://facebook.com/quoctrung">Facebook</a>
   </samp>
 </p>
-<br/>
 <img src="https://pa1.narvii.com/6119/21a2e007a201bb83f4dfa258ea5f4a7560376f90_hq.gif"/>

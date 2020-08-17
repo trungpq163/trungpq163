@@ -30,10 +30,10 @@
     <br/>:coffee: Connect with me :love_letter:  <a href="https://facebook.com/quoctrung">Facebook</a>
   </samp>
 </p>
-<img src="https://pa1.narvii.com/6119/21a2e007a201bb83f4dfa258ea5f4a7560376f90_hq.gif"/>
-<br/>
-<iframe width="1212" height="682" src="https://www.youtube.com/embed/ud2S2uvrrz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <img src="https://pa1.narvii.com/6119/21a2e007a201bb83f4dfa258ea5f4a7560376f90_hq.gif"/> -->
 
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=ud2S2uvrrz4)](https://youtu.be/ud2S2uvrrz4 "Everything Is AWESOME")
+[![Anh Đành Phải Rời Đi - Nhan Nhân Trung - 我只能离开 - 颜人中 (OST A Little Thing Called First Love)
+](https://yt-embed.herokuapp.com/embed?v=ud2S2uvrrz4)](https://youtu.be/ud2S2uvrrz4 "Anh Đành Phải Rời Đi - Nhan Nhân Trung - 我只能离开 - 颜人中 (OST A Little Thing Called First Love)
+")
 
 

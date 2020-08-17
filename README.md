@@ -34,6 +34,6 @@
 <br/>
 <iframe width="1212" height="682" src="https://www.youtube.com/embed/ud2S2uvrrz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![IMAGE ALT TEXT HERE](https://images.app.goo.gl/8X2qynUHWz11E5939)](https://www.youtube.com/watch?v=ud2S2uvrrz4)
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=ud2S2uvrrz4)](https://youtu.be/ud2S2uvrrz4 "Everything Is AWESOME")
 
 

@@ -32,8 +32,7 @@
 </p>
 <!-- <img src="https://pa1.narvii.com/6119/21a2e007a201bb83f4dfa258ea5f4a7560376f90_hq.gif"/> -->
 
-[![Anh Đành Phải Rời Đi - Nhan Nhân Trung - 我只能离开 - 颜人中 (OST A Little Thing Called First Love)
-](https://yt-embed.herokuapp.com/embed?v=ud2S2uvrrz4)](https://youtu.be/ud2S2uvrrz4 "Anh Đành Phải Rời Đi - Nhan Nhân Trung - 我只能离开 - 颜人中 (OST A Little Thing Called First Love)
-")
+[![牽絲戲 - 銀臨 & Aki阿杰 QIAN SI XI #MMD #2K60FPS #Felicity祺
+](https://yt-embed.herokuapp.com/embed?v=Xv7O4jlW7rA)](https://youtu.be/Xv7O4jlW7rA "牽絲戲 - 銀臨 & Aki阿杰 QIAN SI XI")
 
 

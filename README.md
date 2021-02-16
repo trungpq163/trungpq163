@@ -25,6 +25,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/>
 
 <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctrung163&layout=compact&theme=vue">
 <p>
   <samp>
     <br/>:coffee: Connect with me :love_letter:  <a href="https://facebook.com/quoctrung163">Facebook</a>

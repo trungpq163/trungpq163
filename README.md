@@ -31,7 +31,7 @@
     <br/>:coffee: Connect with me :love_letter:  <a href="https://facebook.com/quoctrung163">Facebook</a>
   </samp>
 </p>
-![Metrics](https://github.com/quoctrung163/quoctrung163/blob/master/github-metrics.svg)
+![img](https://github.com/quoctrung163/quoctrung163/blob/master/github-metrics.svg)
 
 
 [![牽絲戲 - 銀臨 & Aki阿杰 QIAN SI XI #MMD #2K60FPS #Felicity祺

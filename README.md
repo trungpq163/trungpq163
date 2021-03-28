@@ -6,12 +6,6 @@
     <br>I love to learn web development & design mmd video :sparkles: <br/>
   </samp>
 </p>
-
-<p>
-  <samp>
-    <br/>:coffee: Connect with me :love_letter:  <a href="https://facebook.com/quoctrung163">Facebook</a>
-  </samp>
-</p>
 <img src="https://github.com/quoctrung163/quoctrung163/blob/master/github-metrics.svg">
 
 

@@ -31,7 +31,7 @@
     <br/>:coffee: Connect with me :love_letter:  <a href="https://facebook.com/quoctrung163">Facebook</a>
   </samp>
 </p>
-<!-- <img src="https://pa1.narvii.com/6119/21a2e007a201bb83f4dfa258ea5f4a7560376f90_hq.gif"/> -->
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
 
 [![牽絲戲 - 銀臨 & Aki阿杰 QIAN SI XI #MMD #2K60FPS #Felicity祺
 ](https://yt-embed.herokuapp.com/embed?v=Xv7O4jlW7rA)](https://youtu.be/Xv7O4jlW7rA "牽絲戲 - 銀臨 & Aki阿杰 QIAN SI XI")

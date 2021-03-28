@@ -6,7 +6,7 @@
     <br>I love to learn web development & design mmd video :sparkles: <br/>
   </samp>
 </p>
-<img width="500" src="https://github.com/quoctrung163/quoctrung163/blob/master/github-metrics.svg">
+<img width="555" src="https://github.com/quoctrung163/quoctrung163/blob/master/github-metrics.svg">
 
 
 [![牽絲戲 - 銀臨 & Aki阿杰 QIAN SI XI #MMD #2K60FPS #Felicity祺

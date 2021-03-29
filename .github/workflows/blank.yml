@@ -27,7 +27,7 @@ jobs:
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0       # Disable limitations
-          #
+          #6666
           plugin_people: yes
           plugin_people_limit: 28
           plugin_people_size: 28

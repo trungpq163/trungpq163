@@ -39,7 +39,3 @@ jobs:
           plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
           plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                               # Hides all languages less than 2%
-          plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
-          plugin_pagespeed_url: http://snack-dev.herokuapp.com/  # Website to audit (defaults to your GitHub linked website)
-          
-          

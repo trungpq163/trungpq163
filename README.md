@@ -7,7 +7,7 @@
   </samp>
 </p>
 <img width="500" src="https://github.com/quoctrung163/quoctrung163/blob/master/github-metrics.svg">
-<p><samp>My video 😘 (making with MMD)</samp></p>
+<p><samp>My video 😘 (made with MMD)</samp></p>
 
 
 [![牽絲戲 - 銀臨 & Aki阿杰 QIAN SI XI #MMD #2K60FPS #Felicity祺

@@ -1024,10 +1024,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.56202311412943" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="325.56202311412943" y="0" width="100.5719954157927" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="426.1340185299221" y="0" width="22.57110798849646" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="448.7051265184186" y="0" width="11.294873481581382" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.49241559427537" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="325.49241559427537" y="0" width="100.55049239433858" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="426.04290798861393" y="0" width="22.566282122038174" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="448.6091901106521" y="0" width="11.390809889347874" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1043,7 +1043,7 @@
                                     2.83 MB
                                 </div>
                                 <div>
-                                    70.77%
+                                    70.76%
                                 </div>
                             </small>
                         </div>
@@ -1090,10 +1090,10 @@
                             </div>
                             <small>
                                 <div>
-                                    98.1 kB
+                                    99 kB
                                 </div>
                                 <div>
-                                    2.46%
+                                    2.48%
                                 </div>
                             </small>
                         </div>

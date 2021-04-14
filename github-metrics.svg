@@ -1024,10 +1024,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.2598210362492" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="326.2598210362492" y="0" width="100.78755781079592" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="427.04737884704514" y="0" width="22.61948608893845" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="449.6668649359836" y="0" width="10.333135064016425" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.8563316270548" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="325.8563316270548" y="0" width="100.66291263681752" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="426.5192442638723" y="0" width="22.591512300902522" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="449.1107565647748" y="0" width="10.889243435225211" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1043,7 +1043,7 @@
                                     2.83 MB
                                 </div>
                                 <div>
-                                    70.93%
+                                    70.84%
                                 </div>
                             </small>
                         </div>
@@ -1059,7 +1059,7 @@
                                     196 kB
                                 </div>
                                 <div>
-                                    4.92%
+                                    4.91%
                                 </div>
                             </small>
                         </div>
@@ -1077,7 +1077,7 @@
                                     874 kB
                                 </div>
                                 <div>
-                                    21.91%
+                                    21.88%
                                 </div>
                             </small>
                         </div>
@@ -1090,10 +1090,10 @@
                             </div>
                             <small>
                                 <div>
-                                    89.6 kB
+                                    94.5 kB
                                 </div>
                                 <div>
-                                    2.25%
+                                    2.37%
                                 </div>
                             </small>
                         </div>

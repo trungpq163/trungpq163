@@ -1105,10 +1105,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.7743928419259" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="310.7743928419259" y="0" width="98.51833085748723" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="409.2927236994131" y="0" width="31.488410545185147" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="440.78113424459826" y="0" width="19.21886575540176" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.31416324146824" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="310.31416324146824" y="0" width="98.37243385602046" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="408.6865970974887" y="0" width="32.122998600535546" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="440.8095956980243" y="0" width="19.19040430197578" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1119,7 +1119,7 @@
                   </div>
                             <small>
                                 <div>2.82 MB</div>
-                                <div>67.56%</div>
+                                <div>67.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1128,8 +1128,8 @@
                     C#
                   </div>
                             <small>
-                                <div>285 kB</div>
-                                <div>6.85%</div>
+                                <div>291 kB</div>
+                                <div>6.98%</div>
                             </small>
                         </div>
                     </section>
@@ -1141,7 +1141,7 @@
                   </div>
                             <small>
                                 <div>892 kB</div>
-                                <div>21.42%</div>
+                                <div>21.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1151,7 +1151,7 @@
                   </div>
                             <small>
                                 <div>174 kB</div>
-                                <div>4.18%</div>
+                                <div>4.17%</div>
                             </small>
                         </div>
                     </section>
@@ -3169,10 +3169,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4285714285714284 0,2.4285714285714284 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4285714285714284 1.7,3.4285714285714284 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.428571428571429)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
+                            <g transform="translate(-6.8, 9.285714285714285)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7142857142857144 0,1.7142857142857142 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7142857142857142 1.7,2.7142857142857144 z"/>
                             </g>
                         </g>
                     </g>

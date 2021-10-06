@@ -6,7 +6,7 @@
     <br>I love to learn web development & design mmd video :sparkles: <br/>
   </samp>
 </p>
-<img width="500" src="https://github.com/trungpq163/trungpq163/blob/master/github-metrics.svg">
+<img width="600" src="https://github.com/trungpq163/trungpq163/blob/master/github-metrics.svg">
 <p><samp>My video 😘 (made with MMD)</samp></p>
 
 

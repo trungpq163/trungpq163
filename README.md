@@ -9,6 +9,9 @@
 <!-- <img width="600" src="https://github.com/trungpq163/trungpq163/blob/master/github-metrics.svg"> -->
 <p><samp>My video 😘 (made with MMD)</samp></p>
 
-
-[![牽絲戲 - 銀臨 & Aki阿杰 QIAN SI XI #MMD #2K60FPS #Felicity祺](https://img.youtube.com/vi/Xv7O4jlW7rA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xv7O4jlW7rA)
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=Xv7O4jlW7rA">
+         <img src="https://img.youtube.com/vi/Xv7O4jlW7rA/maxresdefault.jpg" style="width:66%;">
+      </a>
+</div>
 
